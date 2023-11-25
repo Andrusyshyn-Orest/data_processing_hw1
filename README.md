@@ -7,3 +7,6 @@ To make this dag work you need to create:
 3) Variable WEATHER_API_KEY. Val: Your OpenWeather API token.
 
 ## Results:
+![few_triggers](images/few_triggers.png)  
+![graph](images/graph.png)  
+![sqlite_table](images/sqlite_table.png)
